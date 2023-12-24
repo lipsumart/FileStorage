@@ -1,0 +1,1297 @@
+{
+    "data": {
+      "token": [
+        {
+          "name": "Cybernaut",
+          "supply": 1,
+          "token_id": "20",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-01-21T08:14:29+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Blaze",
+          "supply": 3,
+          "token_id": "56",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "kelborhal78",
+                "address": "tz1iaet53JYmVdhKVuTbKVFFrCJSn3XsSPcW"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-01-27T20:12:14+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1gRB3wvbFnfsN2YZDeZkfCr5pF8UtJVoZC"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-01-27T20:12:14+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Billi O. Nayer",
+                "address": "tz1cwZEwEQrPJk3Cq9rVmai21JUkr3ZCDkqt"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-01-27T20:12:14+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Disintegration",
+          "supply": 1,
+          "token_id": "21",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "MxVoid",
+                "address": "tz2SRxyGc1SFnbAyGuWTNcRbWgZB6pyeGYqB"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-11T01:46:44+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Horizon",
+          "supply": 8,
+          "token_id": "58",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Madyak",
+                "address": "tz1ZztCSEFVTsg43kpZ8WyibLZMvvSSYLmwi"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Madyak",
+                "address": "tz1ZztCSEFVTsg43kpZ8WyibLZMvvSSYLmwi"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Ai Dabbler",
+                "address": "tz1f2muXMjPmZnAvgfgf7kReugw2upMbb9Qg"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Confirmed",
+                "address": "tz1Sn9ZCR7QoaGzcyG5U1m1QQWoiCgvC6mcB"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Tuco_drcc_art",
+                "address": "tz1hUSrZtCY7tjLsgXT9MoH5HK6VR5GEbEpx"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1YUfxX7e56b6hGDCTcerKYqYPmtwfV7ozH"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Zoharks Gallery",
+                "address": "tz1dStkKbCrjt5K8sZ4X18nnN8kQ1rYys6pW"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-18T01:22:44+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Moonlight Wanderer",
+          "supply": 5,
+          "token_id": "59",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Shilly Preston",
+                "address": "tz1SMEhS93oLW6v3Uw154nZ7JqzepqSaYZA4"
+              },
+              "listing": {
+                "price_xtz": 100000,
+                "timestamp": "2023-02-24T23:51:29+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "LaserLewDude",
+                "address": "tz1ghwNkBEVuiYhcaf16y9XfhGGX8WZNoVd4"
+              },
+              "listing": {
+                "price_xtz": 100000,
+                "timestamp": "2023-02-24T23:51:29+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Shilly Preston",
+                "address": "tz1SMEhS93oLW6v3Uw154nZ7JqzepqSaYZA4"
+              },
+              "listing": {
+                "price_xtz": 100000,
+                "timestamp": "2023-02-24T23:51:29+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "kelborhal78",
+                "address": "tz1iaet53JYmVdhKVuTbKVFFrCJSn3XsSPcW"
+              },
+              "listing": {
+                "price_xtz": 100000,
+                "timestamp": "2023-02-24T23:51:29+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "kelborhal78",
+                "address": "tz1iaet53JYmVdhKVuTbKVFFrCJSn3XsSPcW"
+              },
+              "listing": {
+                "price_xtz": 100000,
+                "timestamp": "2023-02-24T23:51:29+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Guide",
+          "supply": 10,
+          "token_id": "61",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1cgZ6PWKoER3gvW3jGKPHgBkRnpj8XzLm2"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-27T19:07:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1WP6ejzZruTAzBC2syPKLhsdFjeqatmdyv"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-27T19:07:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Nfamousartists",
+                "address": "tz1iTcXaEeaz7E8yQ72Ekwm2czKeDVWwNRxh"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-02-27T19:07:44+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Pyromancer",
+          "supply": 10,
+          "token_id": "62",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1cgZ6PWKoER3gvW3jGKPHgBkRnpj8XzLm2"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-03-01T22:01:59+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1cgZ6PWKoER3gvW3jGKPHgBkRnpj8XzLm2"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-03-01T22:01:59+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "One Man's Trash",
+          "supply": 1,
+          "token_id": "63",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Fangs",
+                "address": "tz1NCJnNXhKmEgpRyiEKBUngHfo3Y9woLSo6"
+              },
+              "listing": {
+                "price_xtz": 6942000,
+                "timestamp": "2023-03-02T05:01:44+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Outsider",
+          "supply": 10,
+          "token_id": "64",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "J-do-well Alt",
+                "address": "tz2EPwUGHeYEdZRRxXzeaHYLw82YHE6HW8df"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-03-13T21:53:14+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "J-do-well Alt",
+                "address": "tz2EPwUGHeYEdZRRxXzeaHYLw82YHE6HW8df"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-03-13T21:53:14+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "James Luke Robinson",
+                "address": "tz1NeF2ohRMdRDyCi9rF64tY41A8qem34SQv"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-03-13T21:53:14+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Step",
+          "supply": 5,
+          "token_id": "3",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1YzN4Ns4DMSYV9TcS2NyMuX9AfMFdS6CEh"
+              },
+              "listing": {
+                "price_xtz": 5000000,
+                "timestamp": "2023-05-06T22:52:44+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Empress Trash",
+                "address": "tz1YbJAyfmSwqLbLwCrUTfEMeLgCncM9jj3z"
+              },
+              "listing": {
+                "price_xtz": 3000000,
+                "timestamp": "2023-05-02T00:28:17+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Optics I",
+          "supply": 20,
+          "token_id": "25",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-06-08T04:49:03+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "sX_zr04",
+                "address": "tz1VK6FuYBSuDzWFRtpzRnMAdho7mkGnz19G"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-06-08T04:49:03+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-06-08T04:49:03+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Stargazers",
+          "supply": 1,
+          "token_id": "41",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "VideoColour",
+                "address": "tz1V3KPTvwegnWX3k5RbLQLD8bjNANxgEHXF"
+              },
+              "listing": {
+                "price_xtz": 7000000,
+                "timestamp": "2023-06-08T05:37:12+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Bliss",
+          "supply": 1,
+          "token_id": "100",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 7500000,
+                "timestamp": "2023-06-14T03:33:41+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Legion",
+          "supply": 1,
+          "token_id": "151",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Berker Dalmis",
+                "address": "tz1P4j7EjG7EJWp2Z3RWCTptirmUjzNnn89n"
+              },
+              "listing": {
+                "price_xtz": 8500000,
+                "timestamp": "2023-06-14T17:35:06+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Stranger",
+          "supply": 1,
+          "token_id": "159",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "sX_zr04",
+                "address": "tz1VK6FuYBSuDzWFRtpzRnMAdho7mkGnz19G"
+              },
+              "listing": {
+                "price_xtz": 5000000,
+                "timestamp": "2023-06-18T22:21:22+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Recycle",
+          "supply": 15,
+          "token_id": "71",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Shilly Preston",
+                "address": "tz1SMEhS93oLW6v3Uw154nZ7JqzepqSaYZA4"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "SquintDev",
+                "address": "tz1N9VQ5c1k5n6XPN23GhdWkDG53p12DcULd"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "SquintDev",
+                "address": "tz1N9VQ5c1k5n6XPN23GhdWkDG53p12DcULd"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "MAX CAPACITY",
+                "address": "tz1dRGXUpNPHrmWVnnn2H7TjcGnw9CQVwejj"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Fangs",
+                "address": "tz1NCJnNXhKmEgpRyiEKBUngHfo3Y9woLSo6"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "texadelic",
+                "address": "tz1KxjakCmqHhSEs1CCw7Uo1d2cnp38WfVmw"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "kelborhal78",
+                "address": "tz1iaet53JYmVdhKVuTbKVFFrCJSn3XsSPcW"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "VLDZ ∞",
+                "address": "tz1ReRePpmggPT5QrR65c7ZE9RhFiFfUNvj6"
+              },
+              "listing": {
+                "price_xtz": 690000,
+                "timestamp": "2023-06-21T19:15:10+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "March of the Sages",
+          "supply": 1,
+          "token_id": "189",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1SC1LzWawZ7i72djS4jibWYpH1XxFRMoTL"
+              },
+              "listing": {
+                "price_xtz": 5000000,
+                "timestamp": "2023-06-28T21:44:35+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Breakin'",
+          "supply": 1,
+          "token_id": "27",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "ShamanicArts",
+                "address": "tz1MAJnmXUb5wtgUxnvPZZ5r7FtTrUSzKxPC"
+              },
+              "listing": {
+                "price_xtz": 7770000,
+                "timestamp": "2023-07-11T23:37:18+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Garbage Data",
+          "supply": 10,
+          "token_id": "32",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "JanusSpans",
+                "address": "tz1PFKYrFMdbfrtJCnK9zcfmZdd9BGApv6NN"
+              },
+              "listing": {
+                "price_xtz": null,
+                "timestamp": "2023-07-27T19:56:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": null,
+                "timestamp": "2023-07-27T19:56:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1cgZ6PWKoER3gvW3jGKPHgBkRnpj8XzLm2"
+              },
+              "listing": {
+                "price_xtz": null,
+                "timestamp": "2023-07-27T19:56:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1NpuJZgHU14itcBeAMpzdeUeTxFrYHSZZk"
+              },
+              "listing": {
+                "price_xtz": null,
+                "timestamp": "2023-07-27T19:56:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "The Commodore",
+                "address": "tz1cCCjnT9X3GvXdUkXQiBtbrBQtSLjAWXN9"
+              },
+              "listing": {
+                "price_xtz": null,
+                "timestamp": "2023-07-27T19:56:11+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Riot",
+          "supply": 1,
+          "token_id": "34",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "DEGENPAIN",
+                "address": "tz1ZN9nVbHrDNcyx7GcD4SYQhyQgW66XnxWE"
+              },
+              "listing": {
+                "price_xtz": 7690000,
+                "timestamp": "2023-08-01T22:21:58+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Fall",
+          "supply": 1,
+          "token_id": "36",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "James Luke Robinson",
+                "address": "tz1NeF2ohRMdRDyCi9rF64tY41A8qem34SQv"
+              },
+              "listing": {
+                "price_xtz": 9420000,
+                "timestamp": "2023-08-30T04:06:23+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Fire Dance",
+          "supply": 5,
+          "token_id": "38",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VwAPwtHtQ2jADWSzBJ8kBQQMV2NtcU4W8"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-13T22:59:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1hwNo5K37hEKA2tdzHjpGQZwVNijtrrRKr"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-13T22:59:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-13T22:59:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "SOAPBOX1965",
+                "address": "tz1UQSa7mYNT8BntyxkES1oBvPJr8vRYhmEZ"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-25T05:01:15+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Tenebrous Smile",
+          "supply": 1,
+          "token_id": "39",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Bonsaifox",
+                "address": "tz1XS6dS499nK7TuNjLsdbioAVEdVgK4P5sG"
+              },
+              "listing": {
+                "price_xtz": 1300000,
+                "timestamp": "2023-10-15T06:47:34+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Talking Heads",
+          "supply": 5,
+          "token_id": "40",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VwAPwtHtQ2jADWSzBJ8kBQQMV2NtcU4W8"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-25T09:27:57+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "META IS DOPE",
+                "address": "tz1SneH7oDuU2T1JDPSvJ4haKnqVqNNctMhW"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-25T09:27:57+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Dariush ⌐◨-◨ 6900",
+                "address": "tz1VvkqFhEcvYBmZrgPMtpvk7Bc6NUUzcAhg"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-25T09:27:57+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Dariush ⌐◨-◨ 6900",
+                "address": "tz1VvkqFhEcvYBmZrgPMtpvk7Bc6NUUzcAhg"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-10-25T09:27:57+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "On Top of the World",
+          "supply": 5,
+          "token_id": "41",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-10-30T09:41:07+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1LMeHuyfrzoefmVkwaNxi7BjdFFkieDu8u"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-10-30T09:41:07+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "hmtimm",
+                "address": "tz2GGdTmwPBhj91WWsNQ9aXt8wF9fY7j2hwj"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-10-30T09:41:07+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "foodmasku",
+                "address": "tz1fhCouRTMSyq7wCuHhKLEuRGjwZgFMn7Vx"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-10-30T09:41:07+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Climb",
+          "supply": 5,
+          "token_id": "43",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-11-28T08:35:45+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "TheDudeA",
+                "address": "tz1T8mVWbYPJKCVDUyT6MSLABPgvMaXAbVZT"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-11-28T08:35:45+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "James Luke Robinson",
+                "address": "tz1NeF2ohRMdRDyCi9rF64tY41A8qem34SQv"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-11-28T08:35:45+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VwAPwtHtQ2jADWSzBJ8kBQQMV2NtcU4W8"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-11-28T08:35:45+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "In the Maze",
+          "supply": 5,
+          "token_id": "46",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "TheDudeA",
+                "address": "tz1T8mVWbYPJKCVDUyT6MSLABPgvMaXAbVZT"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-12-04T00:29:03+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Mazin",
+                "address": "tz1VFzuZtk76DFFy1axqGGc7uTbuQYAoAHXa"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-12-04T00:29:03+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "LaserLewDude",
+                "address": "tz1ghwNkBEVuiYhcaf16y9XfhGGX8WZNoVd4"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-12-04T00:29:03+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1cgZ6PWKoER3gvW3jGKPHgBkRnpj8XzLm2"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-12-04T00:29:03+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "OBEY",
+          "supply": 6,
+          "token_id": "47",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "HuemansoftheUniverse",
+                "address": "tz1hQFSCGgjvao7sGySD2oY54eVoSruLPFdp"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-09T05:50:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1XvshAZC9f7GZSR38JXgqgn8VLwdd45vRw"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-09T05:50:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "TheDudeA",
+                "address": "tz1T8mVWbYPJKCVDUyT6MSLABPgvMaXAbVZT"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-09T05:50:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "texadelic",
+                "address": "tz1KxjakCmqHhSEs1CCw7Uo1d2cnp38WfVmw"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-09T05:50:53+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Intriguing Art",
+                "address": "tz1gmcZ2m7v6pc1x6qb1RDiLjUMTMBeayM3m"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-09T05:50:53+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Sculpture Dancer",
+          "supply": 10,
+          "token_id": "48",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VwAPwtHtQ2jADWSzBJ8kBQQMV2NtcU4W8"
+              },
+              "listing": {
+                "price_xtz": 1980000,
+                "timestamp": "2023-12-12T23:08:35+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Trash Glitchloop",
+          "supply": 10,
+          "token_id": "49",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "ROBNESS_V2",
+                "address": "tz1a8dWf9tjUgVtTQcxjVUxdspp8EUfs5ZJJ"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Fangs",
+                "address": "tz1NCJnNXhKmEgpRyiEKBUngHfo3Y9woLSo6"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Billi O. Nayer",
+                "address": "tz1cwZEwEQrPJk3Cq9rVmai21JUkr3ZCDkqt"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Robert Christopher",
+                "address": "tz1fqNyvgBxn3ZCAj7f2z2VoPE38ynJQ5PBV"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "SkullTakes",
+                "address": "tz1PkN3sNDbEPXTFsNwENov4ncYt5TPViXbx"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Empress Trash",
+                "address": "tz1YbJAyfmSwqLbLwCrUTfEMeLgCncM9jj3z"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "LaserLewDude",
+                "address": "tz1ghwNkBEVuiYhcaf16y9XfhGGX8WZNoVd4"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "VLDZ ∞",
+                "address": "tz1ReRePpmggPT5QrR65c7ZE9RhFiFfUNvj6"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-21T10:30:40+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "Doomwalker",
+          "supply": 10,
+          "token_id": "50",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Scarlet",
+                "address": "tz1ZsbS43SPSHbkfegBA1kF4uWMAShsnQUWU"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T09:06:14+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1VwAPwtHtQ2jADWSzBJ8kBQQMV2NtcU4W8"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T09:06:14+00:00"
+              }
+            }
+          ]
+        },
+        {
+          "name": "The Most Valuable Resource",
+          "supply": 10,
+          "token_id": "51",
+          "listing_sales": [
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "wondermundo",
+                "address": "tz1d3CMKdmQV21jsURzb4uPCvsFNdTTZ4ohj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T22:55:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "WhichWitchWasIt",
+                "address": "tz1LZobDY9ZwVjJPCXeXv9KukTPLpC9trxvH"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T22:55:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "Empress Trash",
+                "address": "tz1YbJAyfmSwqLbLwCrUTfEMeLgCncM9jj3z"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T22:55:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": "jonCates",
+                "address": "tz1gMhB92K1Nh8ZxDT18TmjGhSkEjXDxENPj"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T22:55:11+00:00"
+              }
+            },
+            {
+              "amount": 1,
+              "buyer": {
+                "alias": null,
+                "address": "tz1bA4nxfR3EuvCzskAbSAUq3bM8JoUWLPyR"
+              },
+              "listing": {
+                "price_xtz": 990000,
+                "timestamp": "2023-12-22T22:55:11+00:00"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
